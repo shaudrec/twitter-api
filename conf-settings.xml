@@ -1,12 +1,12 @@
 <servers>
 	<server>
 		<id>registry.hub.docker.com</id>
-		<username>jenkins</username>
-		<password>jenkins</password>
+		<username>shaudrec</username>
+		<password>dckr_pat_ewBdPIr3Kq_MAYJm187zb1s4Sts</password>
 	</server>
 	<server>
 		<id>registry-1.docker.io</id>
-		<username>jenkins</username>
-		<password>jenkins</password>
+		<username>shaudrec</username>
+		<password>dckr_pat_ewBdPIr3Kq_MAYJm187zb1s4Sts</password>
 	</server>
 </servers>
