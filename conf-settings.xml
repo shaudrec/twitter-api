@@ -2,11 +2,11 @@
 	<server>
 		<id>registry.hub.docker.com</id>
 		<username>shaudrec</username>
-		<password>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</password>
+		<password>dckr_pat_ewBdPIr3Kq_MAYJm187zb1s4Sts</password>
 	</server>
 	<server>
 		<id>registry-1.docker.io</id>
 		<username>shaudrec</username>
-		<password>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</password>
+		<password>dckr_pat_ewBdPIr3Kq_MAYJm187zb1s4Sts</password>
 	</server>
 </servers>
